@@ -32,6 +32,14 @@
 
 ### Video Demo
 
+Here playing the video demo of Netflix2.0_Clone
+
+https://user-images.githubusercontent.com/97447480/209585676-87c38a87-9619-48d0-907d-94c15746dca6.mp4
+
+https://user-images.githubusercontent.com/97447480/209585720-660e54fe-8eee-4cb0-accc-3a329adc53bd.mp4
+
+https://user-images.githubusercontent.com/97447480/209585769-ce017755-ac4f-4b73-a5b4-a4e96147300b.mp4
+
 
 
 ---
