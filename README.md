@@ -1,6 +1,11 @@
 # 🎬 Netflix2.0_Clone 🎬 #
-This is Netflix clone build using TMDB API and MERN tech stack. It include some of the major facilities provided by Netflix application.
-
+- This is Netflix clone build using MERN tech stack and TMDB API. 
+- This application include some of the major facilities provided by original Netflix application listed below.
+- Single page application : used React JS.
+- For authentication : used Firebase.
+- For user's data management with API changes : used Redux toolkit.
+- For fetching movies and related information : used TMDB API.
+- To store the liked movies in 'MyList' in user profile : used MongoDB database, Node, Express.
 
 ## 🛢Tech Stack Used : 
 - React JS
